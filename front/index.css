@@ -50,3 +50,9 @@ img{
     justify-content: center;
     align-self: center;
 }
+
+h2{
+    align-self: center;
+    color: black;
+    font-weight: bold;
+}
