@@ -12,4 +12,6 @@
 - Choose image which you want to classify
 - Press predict
 
+## Example of working version
+![Example of working site](https://github.com/julia953197/anime_classifier/blob/main/img.png)
 
