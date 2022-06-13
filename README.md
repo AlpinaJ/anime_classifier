@@ -17,7 +17,7 @@
 - pip freeze > requirements.txt
 - cd back
 - uvicorn endpoints:app --reload
-- go to http://127.0.0.1:8000/
+- зайдите на http://127.0.0.1:8000/
 ## 🌐 Ссылки
 Ссылка на проект с выбором наилучшей модели для этого проекта: [anime-faces-recognition](https://github.com/AlpinaJ/anime-faces-recognition)
 
